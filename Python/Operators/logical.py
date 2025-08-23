@@ -12,5 +12,6 @@ print ("False of False is", True or False)
 print ("True and False is", True and False)
 print ("True and True is", True and False)
 print ("Flase and True is", True and False)
-print ("False and alse is", True and False)
+print ("False and False is", True and False)
 
+print (not(True))  #print the oppostite value 
