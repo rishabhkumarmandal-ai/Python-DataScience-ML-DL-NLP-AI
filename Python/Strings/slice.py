@@ -13,3 +13,7 @@ print (nameshort)
 charchter1 = name[1] # print only the indexing one 
 print (charchter1)
 
+#skip value 
+word = "rishabh mandal"
+word = word[:7]
+

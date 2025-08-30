@@ -1,2 +1,4 @@
-a = int(input("Enter a number:"))
-b = int(input("Enter another number:"))
+name = input("enter your name: ")
+
+print(f"good afternoon{ name}")  #f string
+
